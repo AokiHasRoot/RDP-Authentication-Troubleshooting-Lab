@@ -15,7 +15,7 @@ This project focused on network connectivity, DNS, Kerberos authentication, Wind
 | Kali Linux | Testing and troubleshooting workstation |
 | Windows Server | Active Directory domain controller |
 | Windows Client | Domain-joined RDP target |
-| Domain | `elidsi.local` |
+| Domain | `guestdsi.local` |
 | Domain Controller | `192.168.10.80` |
 | RDP Target | `192.168.10.40` |
 
