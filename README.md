@@ -1,4 +1,4 @@
-# RDP Authentication Troubleshooting & Crowbar Source-Code Review
+# RDP Authentication Troubleshooting & Crowbar Logging Hardening
 
 Troubleshot RDP connectivity and authentication from Kali Linux to a Windows Active Directory lab, then inspected and modified Crowbar's logging to prevent passwords from being written to its RDP log entries.
 
